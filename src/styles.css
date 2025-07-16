@@ -1,4 +1,4 @@
-/* Reset and Base Styles */
+
 * {
   margin: 0;
   padding: 0;
@@ -17,7 +17,7 @@ body {
   line-height: 1.6;
 }
 
-/* Custom Scrollbar */
+
 ::-webkit-scrollbar {
   width: 8px;
 }
@@ -35,7 +35,7 @@ body {
   background: linear-gradient(45deg, #ffed4e, #ffd700);
 }
 
-/* App Container */
+
 .app {
   min-height: 100vh;
   transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
@@ -46,7 +46,7 @@ body {
   transform: scale(0.98);
 }
 
-/* Navbar Styles */
+
 .navbar {
   position: fixed;
   top: 0;
@@ -83,7 +83,7 @@ body {
 }
 
 .logo-image {
-  width: 80px;   /* Adjust as needed */
+  width: 80px;   
   height: auto;
   object-fit: contain;
   background:transparent;
@@ -155,7 +155,7 @@ body {
   transition: 0.3s;
 }
 
-/* Hero Section */
+
 .hero {
   position: relative;
   height: 100vh;
@@ -338,7 +338,7 @@ body {
   to { transform: rotate(360deg); }
 }
 
-/* Car Showcase Section */
+
 .car-showcase {
   padding: 8rem 2rem;
   background: linear-gradient(135deg, #0a0a0a, #1a1a1a);
