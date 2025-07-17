@@ -3,7 +3,7 @@ import React, { useState, useEffect } from 'react';
 const cars = [
   {
     name: 'Huayra BC',
-    img: 'https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&w=900&q=80',
+    img: 'https://i.pinimg.com/originals/73/5f/0c/735f0c3766bd4a5db5485c6d224bafac.jpg',
     price: '$2.8M',
     hp: '730 HP',
     topSpeed: '238 MPH',
